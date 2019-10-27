@@ -1,0 +1,22 @@
+Detected 1 CUDA Capable device(s)
+
+Device 0: "GeForce 940M"
+ CUDA Driver Version / Runtime Version 10.1 / 10.1
+ Total amount of global memory: 2004 MBytes (2101870592 bytes)
+ ( 3) Multiprocessors  GPU Max Clock rate: 1176 MHz (1.18 GHz)
+
+ Total amount of global memory: 2004 MBytes (2101870592 bytes)
+ Memory Clock rate: 900 Mhz
+ Memory Bus Width: 64-bit
+ L2 Cache Size: 1048576 bytes
+ Total amount of constant memory: 65536 bytes
+ Total amount of shared memory per block: 49152 bytes
+ Total number of registers available per block: 65536
+
+ Maximum number of threads per multiprocessor: 2048
+ Maximum number of threads per block: 1024
+ Max dimension size of a thread block (x,y,z): (1024, 1024, 64)
+ Max dimension size of a grid size (x,y,z): (2147483647, 65535, 65535)
+
+ID of device: 0
+ID of device which supports double precision is: 0
